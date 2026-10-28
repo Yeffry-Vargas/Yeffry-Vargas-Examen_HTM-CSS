@@ -1,10 +1,10 @@
 /* ========== VARIABLES ========== */
 :root {
   /* Colores */
-  --verde-claro: #2ecc71;
+  --gris: #e1e1e1;
   --verde-oscuro: #27ae60;
-  --beige: #f5f5dc;
-  --blanco: #ffffff;
+  --gris: #c8bdb7;
+  --blanco: #c9c5c5;
   --texto: #2d3a2e;
   --texto-suave: #5f6f61;
   --error: #e74c3c;
